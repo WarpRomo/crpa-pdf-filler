@@ -14,6 +14,11 @@ from data import document_data;
 
 colors = [[1,8,133], [0,0,255], [255,0,255], [0,255,255]];
 
+for i in range(0, len(colors)):
+    for j in range(0, 3):
+        colors[i][j] /= 255;
+
+print(colors[0])
 
 def main():
     reader = open("input.pdf", "rb");
