@@ -1,4 +1,4 @@
-#This file helps find coordinate within the PDF.
+#This file helps find coordinates within the PDF.
 
 import win32api
 from ctypes import windll, Structure, c_long, byref
