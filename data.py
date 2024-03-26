@@ -12,8 +12,8 @@ document_data = {
                         {"coordinates": [75,155], "value": "X", "color": 0},
                 ],
                 "landlord_checkbox": [
-                        {"coordinates": [111,172], "value": "X", "color": 0},
-                        {"coordinates": [111,155], "value": "X", "color": 0},
+                        {"coordinates": [110,172], "value": "X", "color": 0},
+                        {"coordinates": [110,155], "value": "X", "color": 0},
                 ],
                 "tenant_checkbox": [
                         {"coordinates": [157,172], "value": "X", "color": 0},
@@ -148,13 +148,13 @@ document_data = {
                         {"coordinates": [100,710], "value": "X", "color": 0},
                 ],
                 "buyer_1_name": [
-                        {"coordinates": [185,690], "value": "X", "color": 0},
+                        {"coordinates": [185,689], "value": "X", "color": 0},
                 ],
                 "property_address": [
                         {"coordinates": [215,677], "value": "X", "color": 0},
                 ],
                 "property_city": [
-                        {"coordinates": [82,666], "value": "X", "color": 0},
+                        {"coordinates": [83,666], "value": "X", "color": 0},
                 ],
                 "property_county": [
                         {"coordinates": [250,666], "value": "X", "color": 0},
@@ -190,10 +190,10 @@ document_data = {
                         {"coordinates": [500,500], "value": "X", "color": 0},
                 ],
                 "brokerage_seller_checkbox": [
-                        {"coordinates": [190,559], "value": "X", "color": 0},
+                        {"coordinates": [190,558], "value": "X", "color": 0},
                 ],
                 "brokerage_seller_dual_checkbox": [
-                        {"coordinates": [258,559], "value": "X", "color": 0},
+                        {"coordinates": [258,558], "value": "X", "color": 0},
                 ],
                 "broker_seller_checkbox": [
                         {"coordinates": [133,533], "value": "X", "color": 0},
@@ -214,13 +214,13 @@ document_data = {
                         {"coordinates": [370,487], "value": "X", "color": 0},
                 ],
                 "more_brokerage_checkbox": [
-                        {"coordinates": [72,480], "value": "X", "color": 0},
+                        {"coordinates": [72,479], "value": "X", "color": 0},
                 ],
                 "more_brokerage_seller_checkbox": [
-                        {"coordinates": [231,481], "value": "X", "color": 0},
+                        {"coordinates": [232,479], "value": "X", "color": 0},
                 ],
                 "more_brokerage_buyer_checkbox": [
-                        {"coordinates": [270,480], "value": "X", "color": 0},
+                        {"coordinates": [270,479], "value": "X", "color": 0},
                 ],
                 "competing_checkbox": [
                         {"coordinates": [525,466], "value": "X", "color": 0},
@@ -232,16 +232,16 @@ document_data = {
                         {"coordinates": [455,401], "value": "X", "color": 0},
                 ],
                 "escrow_days": [
-                        {"coordinates": [287,388], "value": "X", "color": 0},
+                        {"coordinates": [287,387], "value": "X", "color": 0},
                 ],
                 "escrow_days_checkbox": [
                         {"coordinates": [272,387], "value": "X", "color": 0},
                 ],
-                "escrow_date": [
-                        {"coordinates": [299,378], "value": "X", "color": 0},
+                "escrow_date_checkbox": [
+                        {"coordinates": [298,378], "value": "X", "color": 0},
                 ],
                 "escrow_date_line": [
-                        {"coordinates": [311,375], "value": "X", "color": 0},
+                        {"coordinates": [311,377], "value": "X", "color": 0},
                 ],
                 "expiration_date": [
                         {"coordinates": [281,355], "value": "X", "color": 0},
@@ -596,7 +596,7 @@ document_data = {
                         {"coordinates": [443,690], "value": "X", "color": 0},
                 ],
                 "potted_trees_checkbox": [
-                        {"coordinates": [442,673], "value": "X", "color": 0},
+                        {"coordinates": [443,672], "value": "X", "color": 0},
                 ],
                 "spas_checkbox": [
                         {"coordinates": [536,717], "value": "X", "color": 0},
@@ -630,7 +630,7 @@ document_data = {
                         {"coordinates": [274,534], "value": "X", "color": 0},
                 ],
                 "natural_hazard_environmental_checkbox": [
-                        {"coordinates": [455,556], "value": "X", "color": 0},
+                        {"coordinates": [455,555], "value": "X", "color": 0},
                 ],
                 "natural_hazard_other_checkbox": [
                         {"coordinates": [455,543], "value": "X", "color": 0},
@@ -639,7 +639,7 @@ document_data = {
                         {"coordinates": [494,546], "value": "X", "color": 0},
                 ],
                 "natural_hazard_provided_checkbox": [
-                        {"coordinates": [273,522], "value": "X", "color": 0},
+                        {"coordinates": [272,520], "value": "X", "color": 0},
                 ],
                 "natural_hazard_provided_line": [
                         {"coordinates": [329,522], "value": "X", "color": 0},
@@ -648,7 +648,7 @@ document_data = {
                         {"coordinates": [136,505], "value": "X", "color": 0},
                 ],
                 "item_description_buyer_checkbox": [
-                        {"coordinates": [271,507], "value": "X", "color": 0},
+                        {"coordinates": [272,506], "value": "X", "color": 0},
                 ],
                 "item_description_seller_checkbox": [
                         {"coordinates": [306,507], "value": "X", "color": 0},
@@ -663,16 +663,16 @@ document_data = {
                         {"coordinates": [325,493], "value": "X", "color": 0},
                 ],
                 "item_report_line": [
-                        {"coordinates": [131,480], "value": "X", "color": 0},
+                        {"coordinates": [130,480], "value": "X", "color": 0},
                 ],
                 "item_report_buyer_checkbox": [
-                        {"coordinates": [271,480], "value": "X", "color": 0},
+                        {"coordinates": [272,479], "value": "X", "color": 0},
                 ],
                 "item_report_seller_checkbox": [
                         {"coordinates": [306,478], "value": "X", "color": 0},
                 ],
                 "item_report_both_checkbox": [
-                        {"coordinates": [340,479], "value": "X", "color": 0},
+                        {"coordinates": [340,478], "value": "X", "color": 0},
                 ],
                 "item_report_both_line": [
                         {"coordinates": [373,480], "value": "X", "color": 0},
@@ -684,10 +684,10 @@ document_data = {
                         {"coordinates": [306,464], "value": "X", "color": 0},
                 ],
                 "detectors_both_checkbox": [
-                        {"coordinates": [339,464], "value": "X", "color": 0},
+                        {"coordinates": [341,464], "value": "X", "color": 0},
                 ],
                 "detectors_both_line": [
-                        {"coordinates": [374,466], "value": "X", "color": 0},
+                        {"coordinates": [374,464], "value": "X", "color": 0},
                 ],
                 "inspections_buyer_checkbox": [
                         {"coordinates": [272,445], "value": "X", "color": 0},
@@ -717,7 +717,7 @@ document_data = {
                         {"coordinates": [271,403], "value": "X", "color": 0},
                 ],
                 "escrow_fee_seller_checkbox": [
-                        {"coordinates": [305,402], "value": "X", "color": 0},
+                        {"coordinates": [306,402], "value": "X", "color": 0},
                 ],
                 "escrow_fee_both_checkbox": [
                         {"coordinates": [340,403], "value": "X", "color": 0},
@@ -738,7 +738,7 @@ document_data = {
                         {"coordinates": [306,375], "value": "X", "color": 0},
                 ],
                 "insurance_both_checkbox": [
-                        {"coordinates": [340,374], "value": "X", "color": 0},
+                        {"coordinates": [341,375], "value": "X", "color": 0},
                 ],
                 "insurance_both_line": [
                         {"coordinates": [372,376], "value": "X", "color": 0},
@@ -792,7 +792,7 @@ document_data = {
                         {"coordinates": [276,197], "value": "X", "color": 0},
                 ],
                 "item1_fees_line": [
-                        {"coordinates": [133,183], "value": "X", "color": 0},
+                        {"coordinates": [131,183], "value": "X", "color": 0},
                 ],
                 "item1_fees_buyer_checkbox": [
                         {"coordinates": [272,182], "value": "X", "color": 0},
@@ -807,7 +807,7 @@ document_data = {
                         {"coordinates": [373,184], "value": "X", "color": 0},
                 ],
                 "item2_fees_line": [
-                        {"coordinates": [133,170], "value": "X", "color": 0},
+                        {"coordinates": [131,169], "value": "X", "color": 0},
                 ],
                 "item2_fees_buyer_checkbox": [
                         {"coordinates": [271,169], "value": "X", "color": 0},
@@ -822,22 +822,22 @@ document_data = {
                         {"coordinates": [372,169], "value": "X", "color": 0},
                 ],
                 "warranty_plan_item1": [
-                        {"coordinates": [133,139], "value": "X", "color": 0},
+                        {"coordinates": [132,139], "value": "X", "color": 0},
                 ],
                 "warranty_plan_item2": [
-                        {"coordinates": [134,128], "value": "X", "color": 0},
+                        {"coordinates": [132,128], "value": "X", "color": 0},
                 ],
                 "warranty_plan_item3": [
-                        {"coordinates": [134,115], "value": "X", "color": 0},
+                        {"coordinates": [132,115], "value": "X", "color": 0},
                 ],
                 "warranty_plan_buyer_checkbox": [
                         {"coordinates": [272,156], "value": "X", "color": 0},
                 ],
                 "warranty_plan_seller_checkbox": [
-                        {"coordinates": [306,157], "value": "X", "color": 0},
+                        {"coordinates": [306,156], "value": "X", "color": 0},
                 ],
                 "warranty_plan_both_checkbox": [
-                        {"coordinates": [341,157], "value": "X", "color": 0},
+                        {"coordinates": [341,156], "value": "X", "color": 0},
                 ],
                 "warranty_plan_both_line": [
                         {"coordinates": [371,156], "value": "X", "color": 0},
@@ -899,10 +899,10 @@ document_data = {
                         {"coordinates": [72,680], "value": "X", "color": 0},
                 ],
                 "other_a_checkbox": [
-                        {"coordinates": [314,679], "value": "X", "color": 0},
+                        {"coordinates": [314,680], "value": "X", "color": 0},
                 ],
                 "other_a_line" :[
-                        {"coordinates": [351,682], "value": "X", "color": 0},
+                        {"coordinates": [351,680], "value": "X", "color": 0},
                 ],
                 "addendum_checkbox": [
                         {"coordinates": [72,659], "value": "X", "color": 0},
@@ -923,10 +923,10 @@ document_data = {
                         {"coordinates": [314,660], "value": "X", "color": 0},
                 ],
                 "court_confirmation_addendum_checkbox": [
-                        {"coordinates": [314,649], "value": "X", "color": 0},
+                        {"coordinates": [314,648], "value": "X", "color": 0},
                 ],
                 "seller_intent_to_exchange_addendum_checkbox": [
-                        {"coordinates": [313,627], "value": "X", "color": 0},
+                        {"coordinates": [314,626], "value": "X", "color": 0},
                 ],
                 "other_b_checkbox": [
                         {"coordinates": [72,614], "value": "X", "color": 0},
@@ -934,7 +934,7 @@ document_data = {
                 ],
                 "other_b_line": [
                         {"coordinates": [110,615], "value": "X", "color": 0},
-                        {"coordinates": [352,615], "value": "X", "color": 0},
+                        {"coordinates": [351,615], "value": "X", "color": 0},
                 ],
                 "buyer_investigation_advisory_checkbox": [
                         {"coordinates": [72,582], "value": "X", "color": 0},
@@ -967,12 +967,12 @@ document_data = {
                         {"coordinates": [314,529], "value": "X", "color": 0},
                 ],
                 "other_c_checkbox": [
-                        {"coordinates": [73,518], "value": "X", "color": 0},
+                        {"coordinates": [72,518], "value": "X", "color": 0},
                         {"coordinates": [314,518], "value": "X", "color": 0},
                 ],
                 "other_c_line": [
                         {"coordinates": [111,518], "value": "X", "color": 0},
-                        {"coordinates": [352,519], "value": "X", "color": 0},
+                        {"coordinates": [351,518], "value": "X", "color": 0},
                 ],
                 "buyer_initials_1": [
                         {"coordinates": [298,47], "value": "X", "color": 0},
@@ -1276,7 +1276,7 @@ document_data = {
                         {"coordinates": [179,142], "value": "X", "color": 0},
                 ],
                 "seller_1_name_signer_checkbox": [
-                        {"coordinates": [72,168], "value": "X", "color": 0},
+                        {"coordinates": [72,167], "value": "X", "color": 0},
                         {"coordinates": [72,128], "value": "X", "color": 0},
                 ],
                 "seller_1_name_signer": [
@@ -1306,10 +1306,10 @@ document_data = {
                 ],
                 "date_prepared": [
                         {"coordinates": [470,768], "value": "X", "color": 0},
-                        {"coordinates": [495,597], "value": "X", "color": 0},
-                        {"coordinates": [494,585], "value": "X", "color": 0},
+                        {"coordinates": [492,597], "value": "X", "color": 0},
+                        {"coordinates": [492,585], "value": "X", "color": 0},
                         {"coordinates": [492,478], "value": "X", "color": 0},
-                        {"coordinates": [493,465], "value": "X", "color": 0},
+                        {"coordinates": [492,464], "value": "X", "color": 0},
                 ],
                 "buyer_brokerage_firm": [
                         {"coordinates": [176,609], "value": "X", "color": 0},
@@ -1378,7 +1378,7 @@ document_data = {
                         {"coordinates": [379,477], "value": "X", "color": 0},
                 ],
                 "seller_2_name": [
-                        {"coordinates": [88,465], "value": "X", "color": 0},
+                        {"coordinates": [86,464], "value": "X", "color": 0},
                 ],
                 "seller_2_number": [
                         {"coordinates": [379,465], "value": "X", "color": 0},
@@ -1393,7 +1393,7 @@ document_data = {
                         {"coordinates": [475,448], "value": "X", "color": 0},
                 ],
                 "seller_zip": [
-                        {"coordinates": [513,449], "value": "X", "color": 0},
+                        {"coordinates": [512,448], "value": "X", "color": 0},
                 ],
                 "seller_email": [
                         {"coordinates": [101,434], "value": "X", "color": 0},
@@ -1420,10 +1420,10 @@ document_data = {
                         {"coordinates": [314,383], "value": "X", "color": 0},
                 ],
                 "escrew_holder_deposit_checkbox": [
-                        {"coordinates": [353,338], "value": "X", "color": 0},
+                        {"coordinates": [352,338], "value": "X", "color": 0},
                 ],
                 "escrew_holder_deposit_amount": [
-                        {"coordinates": [479,339], "value": "X", "color": 0},
+                        {"coordinates": [478,338], "value": "X", "color": 0},
                 ],
                 "counter_offer_number_1": [
                         {"coordinates": [98,329], "value": "X", "color": 0},
@@ -1459,13 +1459,13 @@ document_data = {
                         {"coordinates": [240,239], "value": "X", "color": 0},
                 ],
                 "financial_protection_checkbox": [
-                        {"coordinates": [36,226], "value": "X", "color": 0},
+                        {"coordinates": [36,225], "value": "X", "color": 0},
                 ],
                 "insurance_checkbox": [
-                        {"coordinates": [251,226], "value": "X", "color": 0},
+                        {"coordinates": [252,225], "value": "X", "color": 0},
                 ],
                 "real_estate_checkbox": [
-                        {"coordinates": [366,226], "value": "X", "color": 0},
+                        {"coordinates": [366,225], "value": "X", "color": 0},
                 ],
                 "seller_initials_1": [
                         {"coordinates": [166,200], "value": "X", "color": 0},
