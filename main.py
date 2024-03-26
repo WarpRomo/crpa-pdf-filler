@@ -2,7 +2,13 @@ from PyPDF2 import PdfWriter, PdfReader
 import io
 from reportlab.pdfgen import canvas
 from reportlab.lib.pagesizes import letter
+
+from reportlab.pdfbase import pdfmetrics
+from reportlab.pdfbase.ttfonts import TTFont
+
 import os;
+
+
 
 from data import document_data;
 
@@ -18,7 +24,8 @@ for i in range(0, len(colors)):
     for j in range(0, 3):
         colors[i][j] /= 255;
 
-print(colors[0])
+
+pdfmetrics.registerFont(TTFont('Arial Bold Italic', 'font.ttf'))
 
 def main():
     reader = open("input.pdf", "rb");
@@ -59,7 +66,7 @@ def write_text(document_data, input, reader):
         packet.seek(0)
         can = canvas.Canvas(packet, pagesize=letter, bottomup=1);
 
-        can.setFont("Helvetica", 10)
+        can.setFont("Arial Bold Italic", 10)
 
         if(len(commands) == 0): continue;
 

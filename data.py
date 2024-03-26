@@ -558,17 +558,17 @@ document_data = {
                         {"coordinates": [128,653], "value": "X", "color": 0},
                 ],
                 "additional_checkbox": [
-                        {"coordinates": [127,633], "value": "X", "color": 0},
+                        {"coordinates": [128,632], "value": "X", "color": 0},
                         {"coordinates": [270,643], "value": "X", "color": 0},
-                        {"coordinates": [271,633], "value": "X", "color": 0},
-                        {"coordinates": [442,643], "value": "X", "color": 0},
-                        {"coordinates": [442,633], "value": "X", "color": 0},
+                        {"coordinates": [270,632], "value": "X", "color": 0},
+                        {"coordinates": [443,643], "value": "X", "color": 0},
+                        {"coordinates": [443,632], "value": "X", "color": 0},
                 ],
                 "additional_item": [
-                        {"coordinates": [140,634], "value": "X", "color": 0},
+                        {"coordinates": [140,632], "value": "X", "color": 0},
                         {"coordinates": [281,645], "value": "X", "color": 0},
                         {"coordinates": [283,632], "value": "X", "color": 0},
-                        {"coordinates": [458,643], "value": "X", "color": 0},
+                        {"coordinates": [458,642], "value": "X", "color": 0},
                         {"coordinates": [457,632], "value": "X", "color": 0},
                 ],
                 "video_doorbell_checkbox": [
@@ -690,7 +690,7 @@ document_data = {
                         {"coordinates": [374,466], "value": "X", "color": 0},
                 ],
                 "inspections_buyer_checkbox": [
-                        {"coordinates": [271,447], "value": "X", "color": 0},
+                        {"coordinates": [272,445], "value": "X", "color": 0},
                 ],
                 "inspections_seller_checkbox": [
                         {"coordinates": [306,445], "value": "X", "color": 0},
