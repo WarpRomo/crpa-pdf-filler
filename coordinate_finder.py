@@ -1,11 +1,12 @@
-# Code to check if left or right mouse buttons were pressed
+#This file helps find coordinate within the PDF.
+
 import win32api
 from ctypes import windll, Structure, c_long, byref
 
 import time
 
-state_left = win32api.GetKeyState(0x01)  # Left button down = 0 or 1. Button up = -127 or -128
-state_right = win32api.GetKeyState(0x02)  # Right button down = 0 or 1. Button up = -127 or -128
+state_left = win32api.GetKeyState(0x01)
+state_right = win32api.GetKeyState(0x02)
 
 
 relative = (0,0);
@@ -22,11 +23,10 @@ while True:
     a = win32api.GetKeyState(0x01)
     b = win32api.GetKeyState(0x02)
 
-    if a != state_left:  # Button state changed
+    if a != state_left:
         state_left = a
         if a < 0:
             pos = get_mouse_pos();
-
 
             adjusted = [pos[0] - relative[0], pos[1] - relative[1]];
 
@@ -40,12 +40,7 @@ while True:
 
             i += 1;
 
-
-
-
-
-
-    if b != state_right:  # Button state changed
+    if b != state_right:
         state_right = b
         if b < 0:
             relative = get_mouse_pos();
